@@ -1,7 +1,7 @@
 pragma solidity ^0.5.7;
 pragma experimental ABIEncoderV2;
 
-import { Account } from "./ISoloMargin.sol";
+import "https://github.com/zeye/money-legos/blob/master/src/dydx/contracts/ISoloMargin.sol";
 
 
 /**
